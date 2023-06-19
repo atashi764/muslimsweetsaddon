@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Muslim Sweets",
+		"description": "Muslim Sweets Behavior Pack",
+		"uuid": "8c6dc21e-4a11-a661-59f8-345e3a14ff66",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["20230619"],
+		"generated_with": {
+			"blockbench_block_wizard": ["1.1.2"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "7ebbf11a-1efe-df63-ef36-7d2571e4aca0",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "4b13e552-6662-5e08-21ce-b2127ffb1e6f",
+			"version": [1, 0, 0]
+		}
+	]
+}

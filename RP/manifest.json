@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Muslim Sweets",
+		"description": "Muslim Sweets Resource Pack",
+		"uuid": "4b13e552-6662-5e08-21ce-b2127ffb1e6f",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["20230619"],
+		"generated_with": {
+			"blockbench_block_wizard": ["1.1.2"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Muslim Sweets",
+			"type": "resources",
+			"uuid": "1c816d41-78fb-8312-b0d5-61c2aa341ddc",
+			"version": [1, 0, 0]
+		}
+	]
+}
